@@ -1,0 +1,5 @@
+1) Download word embeddings(glove.6B.50d) from the link provided in readme.
+
+2) Place dowloaded file in code directiory.
+
+3) Run the program.
